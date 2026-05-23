@@ -13,31 +13,31 @@ function UpgradeIcon() {
   return (
     <svg viewBox="0 0 24 24" aria-hidden="true">
       <path
-        d="M12 4.2 17.2 9.1 12 19 6.8 9.1 12 4.2Z"
+        d="M12 4.3 17 8.9 12 18.9 7 8.9 12 4.3Z"
         fill="none"
         stroke="currentColor"
-        strokeWidth="1.6"
+        strokeWidth="1.55"
         strokeLinejoin="round"
       />
       <path
-        d="M12 4.2V19"
+        d="M12 4.3 12 18.9"
         fill="none"
         stroke="currentColor"
         strokeWidth="1.35"
         strokeLinecap="round"
       />
       <path
-        d="M8.5 6.7 6.9 5.1M15.5 6.7l1.6-1.6M7.7 11.1 5.8 12M16.3 11.1l2 .9"
+        d="M8.3 6.6 6.7 5M15.7 6.6 17.3 5M7.8 11 5.8 11.9M16.2 11 18.2 11.9"
         fill="none"
         stroke="currentColor"
-        strokeWidth="1.1"
+        strokeWidth="1.05"
         strokeLinecap="round"
       />
       <path
-        d="M9.3 8.6 12 11.6 14.7 8.6"
+        d="M9.1 8.7 12 12.1 14.9 8.7"
         fill="none"
         stroke="currentColor"
-        strokeWidth="1.15"
+        strokeWidth="1.1"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
